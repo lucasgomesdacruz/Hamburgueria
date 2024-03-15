@@ -1,20 +1,23 @@
-# Hamburgueria
+# Projeto Hamburgueria 🍔
 ![image](https://github.com/lucasgomesdacruz/Hamburgueria/assets/112510742/0d7636ec-0b80-456f-ba06-2aeffe2b6285)
 
 ## 🔥 introdução
-Cardápio online de uma hamburgueria com o uso de JavaScript para manipulação dos elementos do site. Utilizei a API do WhatsApp para enviar os pedidos. Os pedidos só podem ser feitos durante o horário de funcionamento. Desenvolvido com HTML, Tailwind CSS e JavaScript.
+O Projeto Hamburgueria é uma aplicação web interativa que simula um cardápio online de uma hamburgueria, permitindo aos clientes visualizar os itens disponíveis, fazer pedidos e enviá-los diretamente para a hamburgueria via WhatsApp. Desenvolvido com HTML, Tailwind CSS e JavaScript, o projeto oferece uma experiência fluida e envolvente para os usuários.
 
-## Instalação
-Clone o projeto e use na sua ide 
+## 🚀 Funcionalidades:
+• Menu Interativo: Explore uma variedade de hambúrgueres e bebidas, cada um com sua descrição e preço. <br>
+• Adicionar ao Carrinho: Os usuários podem adicionar itens ao carrinho de compras com apenas um clique. <br>
+• Carrinho de Compras: Visualize os itens selecionados no carrinho, juntamente com o total da compra. <br>
+• Integração com WhatsApp: Envie o pedido diretamente para a hamburgueria via WhatsApp, tornando o processo de compra mais conveniente. <br>
+• Verificação de Horário: Os pedidos são aceitos apenas durante o horário de funcionamento da hamburgueria. <br>
 
-Copie - https://github.com/lucasgomesdacruz/Hamburgueria.git
+### 📁 Instalação e Uso:
+1 - Clone o repositório: git clone https://github.com/lucasgomesdacruz/Hamburgueria.git <br>
+2- Use o comando no terminal para ativação do Tailwind, comando - Npm run dev <br>
+3 - Navegue até o diretório do projeto: cd Hamburgueria <br>
+4 - Abra o arquivo index.html em seu navegador. <br>
 
-Use o comando para ativação do Tailwind
-
-comando - Npm run dev
-
-
-### 📦 Tecnologias usadas
+### 🛠️ Tecnologias usadas
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### 👷 Autores
