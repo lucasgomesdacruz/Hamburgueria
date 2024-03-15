@@ -11,14 +11,14 @@ O Projeto Hamburgueria é uma aplicação web interativa que simula um cardápio
 • Integração com WhatsApp: Envie o pedido diretamente para a hamburgueria via WhatsApp, tornando o processo de compra mais conveniente. <br>
 • Verificação de Horário: Os pedidos são aceitos apenas durante o horário de funcionamento da hamburgueria. <br>
 
+### 🛠️ Tecnologias usadas
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+
 ### 📁 Instalação e Uso:
 1 - Clone o repositório: git clone https://github.com/lucasgomesdacruz/Hamburgueria.git <br>
 2- Use o comando no terminal para ativação do Tailwind, comando - Npm run dev <br>
 3 - Navegue até o diretório do projeto: cd Hamburgueria <br>
 4 - Abra o arquivo index.html em seu navegador. <br>
-
-### 🛠️ Tecnologias usadas
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![tailwind css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 
 ### 👷 Autores
 
